@@ -17,7 +17,7 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 ---
 4. Start ```ApprenticeVR```
 ---
-5. Click ```Settings``` at the top
+5. Click ```Settings```at the top
 ---
 6. Click <br><br> <img width="250" height="39" alt="Open mirror mangement" src="https://github.com/user-attachments/assets/38c79eb8-9b8d-459b-aac5-5df88eff67d2" />
 ---
