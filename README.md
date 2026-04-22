@@ -23,8 +23,10 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 ---
 7. Click <br><br> <img width="236" height="38" alt="Set Public Server JSON (set)" src="https://github.com/user-attachments/assets/a1697088-d4a5-4ab4-a7a8-c243fc80ab1a" />
 ---
-8. Copy and Paste the ```Public Server JSON``` info into the ```Paste JSON``` box
+8. Open the ```JSON``` file Downloaded
 ---
-9. Click ```Save```
+9. Copy and Paste the ```Public Server JSON``` info into the ```Paste JSON``` box
+---
+10. Click ```Save```
 ---
 
