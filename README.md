@@ -1,5 +1,7 @@
 ## What is ApprenticeVR
 ApprenticeVR: VRSrc Edition is designed for managing and sideloading content onto Meta Quest devices
+<br>
+<br>
 
 ## 📦 Installing ApprenticeVR
 
