@@ -10,7 +10,6 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 
 
 1. Start by Downloading a working JSON (Server/Database) <br><br>
-<a href="https://github.com/CrazyScamp/Rookie-3.1-Setup/releases/download/public.json/public.json">
 <img src="https://img.shields.io/badge/Download-.JSON-gold?style=for-the-badge">
 ---
 2. Run and Install ```ApprenticeVR Setup```
