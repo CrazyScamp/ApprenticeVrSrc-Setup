@@ -7,23 +7,29 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 
 
 
-2. Run and Install '''ApprenticeVR Setup''' 
+
+2. Run and Install ```ApprenticeVR Setup``` 
 
 
 
-3. Once installed you need to update the '''serverinfo.json''' file 
+
+3. Once installed you need to update the ```serverinfo.json``` file 
 
 
 
-4. Start '''ApprenticeVR'''
+
+4. Start ```ApprenticeVR```
 
 
 
-5. Click '''Settings''' at the top
+
+5. Click ```Settings``` at the top
 
 
 
-6. Click <img width="250" height="39" alt="Open Mirror Management"/>
+
+6. Click <img width="250" height="39" alt="Open mirror mangement" src="https://github.com/user-attachments/assets/38c79eb8-9b8d-459b-aac5-5df88eff67d2" />
+
 
 
 
@@ -32,5 +38,11 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 
 
 
-4. Copy and Paste the "serverinfo.json" with the new one
+
+8. Copy and Paste the ```Public Server JSON``` info into the ```Paste JSON``` box
+
+
+
+
+9. Click ```Save```
 
