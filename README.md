@@ -32,6 +32,6 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 
 
 
-##the_vrSrc:
+# Thanks to the_vrSrc:
 ---
 Provides a working JSON details that works with ApprenticeVR
