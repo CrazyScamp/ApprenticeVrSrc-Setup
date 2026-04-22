@@ -2,6 +2,7 @@
 ApprenticeVR: VRSrc Edition is designed for managing and sideloading content onto Meta Quest devices
 
 ## Installing ApprenticeVR
+---
 
 
 1. <img src="https://img.shields.io/badge/Download-.JSON-gold?style=for-the-badge">
