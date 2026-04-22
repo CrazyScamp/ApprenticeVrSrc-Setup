@@ -30,3 +30,8 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 10. Click ```Save```
 ---
 
+
+
+##the_vrSrc:
+---
+Provides a working JSON details that works with ApprenticeVR
