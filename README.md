@@ -6,19 +6,30 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 1. <img src="https://img.shields.io/badge/Download-.JSON-gold?style=for-the-badge">
 
 
+
+
 2. Run and Install ```ApprenticeVR Setup```
+
+
 
 
 3. Once installed you need to update the ```serverinfo.json``` file
 
 
+
+
 4. Start ```ApprenticeVR```
+
+
 
 
 5. Click ```Settings``` at the top
 
 
+
+
 6. Click <img width="250" height="39" alt="Open mirror mangement" src="https://github.com/user-attachments/assets/38c79eb8-9b8d-459b-aac5-5df88eff67d2" />
+
 
 
 
@@ -27,10 +38,10 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 
 
 
-10. Copy and Paste the ```Public Server JSON``` info into the ```Paste JSON``` box
+8.Copy and Paste the ```Public Server JSON``` info into the ```Paste JSON``` box
 
 
 
 
-11. Click ```Save```
+9.Click ```Save```
 
