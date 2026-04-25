@@ -4,35 +4,39 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 <br>
 
 ## 📦 Installing ApprenticeVR
-<br>
-
 
 
 
 1. Download ApprenticeVR
-<br><br> <img src="https://img.shields.io/badge/Download-.JSON-gold?style=for-the-badge">
----
+<br>
+
+href="https://github.com/KaladinDMP/apprenticeVrSrc">
+<img src="https://img.shields.io/badge/ApprenticeVR-gold?style=for-the-badge">
+  </a>
+  </p>
+
+  ---
 
 
-3. Download a working JSON (Server/Database) <br><br> <img src="https://img.shields.io/badge/Download-.JSON-gold?style=for-the-badge">
+2. Download a working JSON (Server/Database) <br><br> <img src="https://img.shields.io/badge/Download-.JSON-gold?style=for-the-badge">
 ---
-2. Run and Install ```ApprenticeVR Setup```
+3. Run and Install ```ApprenticeVR Setup```
 ---
-3. Once installed you need to update the ```serverinfo.json``` file
+4. Once installed you need to update the ```serverinfo.json``` file
 ---
-4. Start ```ApprenticeVR```
+5. Start ```ApprenticeVR```
 ---
-5. Click ```Settings```at the top
+6. Click ```Settings```at the top
 ---
-6. Click <br><br> <img width="250" height="39" alt="Open mirror mangement" src="https://github.com/user-attachments/assets/38c79eb8-9b8d-459b-aac5-5df88eff67d2" />
+7. Click <br><br> <img width="250" height="39" alt="Open mirror mangement" src="https://github.com/user-attachments/assets/38c79eb8-9b8d-459b-aac5-5df88eff67d2" />
 ---
-7. Click <br><br> <img width="236" height="38" alt="Set Public Server JSON (set)" src="https://github.com/user-attachments/assets/a1697088-d4a5-4ab4-a7a8-c243fc80ab1a" />
+8. Click <br><br> <img width="236" height="38" alt="Set Public Server JSON (set)" src="https://github.com/user-attachments/assets/a1697088-d4a5-4ab4-a7a8-c243fc80ab1a" />
 ---
-8. Open the ```JSON``` file Downloaded
+9. Open the ```JSON``` file Downloaded
 ---
-9. Copy and Paste the ```Public Server JSON``` info into the ```Paste JSON``` box
+10. Copy and Paste the ```Public Server JSON``` info into the ```Paste JSON``` box
 ---
-10. Click ```Save```
+11. Click ```Save```
 ---
 
 
