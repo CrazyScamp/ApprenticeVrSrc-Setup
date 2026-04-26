@@ -9,9 +9,7 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 
 1. Download ApprenticeVR
 <br>
-
-href="https://github.com/KaladinDMP/apprenticeVrSrc">
-<img src="https://img.shields.io/badge/ApprenticeVR-gold?style=for-the-badge">
+src="https://img.shields.io/badge/ApprenticeVR-gold?style=for-the-badge">
   </a>
   </p>
 
