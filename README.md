@@ -8,7 +8,7 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 
 
 1. Download ApprenticeVR
-<br>
+<br><br> <img
 src="https://img.shields.io/badge/ApprenticeVR-gold?style=for-the-badge">
   </a>
   </p>
@@ -17,6 +17,7 @@ src="https://img.shields.io/badge/ApprenticeVR-gold?style=for-the-badge">
 
 
 2. Download a working JSON (Server/Database) <br><br> <img src="https://img.shields.io/badge/Download-.JSON-gold?style=for-the-badge">
+
 ---
 3. Run and Install ```ApprenticeVR Setup```
 ---
