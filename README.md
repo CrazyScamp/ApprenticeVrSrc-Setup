@@ -18,7 +18,12 @@ href="https://github.com/jimzrt/apprenticeVr/releases/tag/v1.3.4">
   ---
 
 
-2. Download a working JSON (Server/Database) <br><br> <img src="https://img.shields.io/badge/Download-.JSON-gold?style=for-the-badge">
+2. Download a working JSON (Server/Database)
+<p>
+  <a href="https://github.com/CrazyScamp/Rookie-3.1-Setup/releases/download/public.json/public.json">
+    <img src="https://img.shields.io/badge/Download-JSON-gold?style=for-the-badge">
+  </a>
+</p>
 
 ---
 3. Run and Install ```ApprenticeVR Setup```
