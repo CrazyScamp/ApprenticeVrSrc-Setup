@@ -3,6 +3,19 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 <br>
 <br>
 
+---
+
+Before you start! if you haven't already you need to get your headset ready for sideloading
+<p>
+  <a 
+href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
+<img src="https://img.shields.io/badge/Headset Setup Guide-gold?style=for-the-badge">
+  </a>
+  </p>
+
+  ---
+
+
 ## 📦 Installing ApprenticeVR
 
 
