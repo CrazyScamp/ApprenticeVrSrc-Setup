@@ -58,6 +58,19 @@ href="https://github.com/jimzrt/apprenticeVr/releases/tag/v1.3.4">
 11. Click ```Save```
 ---
 
+## LOCATING UNKNOWN SOURCES
+
+Unknown Sources is where you find your sideloaded games.
+Click below for instructions 
+
+<p>
+  <a 
+href="https://github.com/CrazyScamp/Finding-Unknown-Sources-Quest">
+<img src="https://img.shields.io/badge/Locating Unknown Sources-gold?style=for-the-badge">
+  </a>
+  </p>
+
+---
 
 
 # Thanks to the_vrSrc
