@@ -10,8 +10,8 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 1. Download ApprenticeVR
 <p>
   <a 
-href="https://github.com/jimzrt/apprenticeVr">
-<img src="https://img.shields.io/badge/Headset Download ApprenticeVR-gold?style=for-the-badge">
+href="https://github.com/jimzrt/apprenticeVr/releases">
+<img src="https://img.shields.io/badge/Download ApprenticeVR-gold?style=for-the-badge">
   </a>
   </p>
 
