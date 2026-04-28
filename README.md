@@ -52,11 +52,15 @@ href="https://github.com/KaladinDMP/apprenticeVrSrc/releases">
 <br>
 <img width="429" height="395" alt="run" src="https://github.com/user-attachments/assets/33135e23-11e7-4acd-9ed6-7ff9baeabf9e" />
 
+6. Then Click ```Run Anyway```
+
 ---
 
-6. Start ```ApprenticeVR VrSrc```
+7. Start ```ApprenticeVR VrSrc```
 
-Please note - ```The Server / Database is already included```
+---
+
+## Please note - ```The Server / Database is already included```
 
 ---
 
