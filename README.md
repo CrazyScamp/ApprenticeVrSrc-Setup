@@ -29,39 +29,29 @@ href="https://github.com/KaladinDMP/apprenticeVrSrc/releases">
   </a>
   </p>
 
-  ---
+---
 
+2. Run and Install ```ApprenticeVR (VrSrc Edition) Setup```
+---
 
-2. Download a working JSON (Server/Database)
-<p>
-  <a href="https://github.com/user-attachments/files/27160582/ServerInfo.json">
-    <img src="https://img.shields.io/badge/Download-ServerInfo.json-gold?style=for-the-badge">
-  </a>
-</p>
+3.  You May See ```Windows Protected your PC``` come up
 
 ---
 
-3. Run and Install ```ApprenticeVR (VrSrc Edition) Setup```
----
-
-4.  You May See ```Windows Protected your PC``` come up
-
----
-
-5. click ```More Info```
+4. click ```More Info```
 <br>
 <img width="429" height="395" alt="run" src="https://github.com/user-attachments/assets/33135e23-11e7-4acd-9ed6-7ff9baeabf9e" />
 
 ---
 
-6. Then Click ```Run Anyway```
+5. Then Click ```Run Anyway```
 
 <img width="427" height="394" alt="run1" src="https://github.com/user-attachments/assets/b47c108e-302f-4b3a-8626-2478e032a020" />
 
 
 ---
 
-7. Start ```ApprenticeVR VrSrc```
+6. Start ```ApprenticeVR VrSrc```
 
 ---
 
