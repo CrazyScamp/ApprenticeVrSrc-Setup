@@ -76,4 +76,4 @@ href="https://github.com/CrazyScamp/Finding-Unknown-Sources-Quest">
 
 # Thanks to the_vrSrc
 
-Provides working JSON details that works with ApprenticeVR
+Provides working JSON details that works with ApprenticeVrSrc
