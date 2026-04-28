@@ -5,7 +5,8 @@ ApprenticeVR: VRSrc Edition is designed for managing and sideloading content ont
 
 ---
 
-Before you start! if you haven't already you need to get your headset ready for sideloading
+## Before you start!
+If you haven't already you need to get your headset ready for sideloading
 <p>
   <a 
 href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
