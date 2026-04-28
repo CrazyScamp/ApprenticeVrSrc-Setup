@@ -17,7 +17,7 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
   ---
 
 
-## 📦 Installing ApprenticeVR
+## 📦 Installing ApprenticeVrSrc
 
 
 
