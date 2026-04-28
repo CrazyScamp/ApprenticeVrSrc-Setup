@@ -21,11 +21,11 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
 
 
 
-1. Download ApprenticeVrSrc
+1. Download ApprenticeVR (VrSrc Edition)
 <p>
   <a 
 href="https://github.com/mula-bb/apprenticeVrSrc">
-<img src="https://img.shields.io/badge/Download-ApprenticeVR VrSrc Edition-gold?style=for-the-badge">
+<img src="https://img.shields.io/badge/Download-ApprenticeVR (VrSrc Edition)-gold?style=for-the-badge">
   </a>
   </p>
 
@@ -40,11 +40,11 @@ href="https://github.com/mula-bb/apprenticeVrSrc">
 </p>
 
 ---
-3. Run and Install ```ApprenticeVrSrc Setup```
+3. Run and Install ```ApprenticeVR (VrSrc Edition) Setup```
 ---
 4. Once installed you need to update the ```serverinfo.json``` file
 ---
-5. Start ```ApprenticeVrSrc```
+5. Start ```ApprenticeVR VrSrc```
 ---
 6. Click ```Settings```at the top
 ---
@@ -76,4 +76,4 @@ href="https://github.com/CrazyScamp/Finding-Unknown-Sources-Quest">
 
 # Thanks to the_vrSrc
 
-Provides working JSON details that works with ApprenticeVrSrc
+Provides working JSON details that works with ApprenticeVR (VrSrc Edition)
