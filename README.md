@@ -1,5 +1,5 @@
-## What is ApprenticeVR (VrSrc Edition)
-ApprenticeVR (VrSrc Edition) is designed for managing and sideloading content onto Meta Quest devices
+## What is ApprenticeVR (vrSrc Edition)
+ApprenticeVR (vrSrc Edition) is designed for managing and sideloading content onto Meta Quest devices
 <br>
 <br>
 
@@ -17,7 +17,7 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
   ---
 
 
-## 📦 Installing ApprenticeVrSrc
+## 📦 Installing
 
 
 
@@ -25,7 +25,7 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
 <p>
   <a 
 href="https://github.com/mula-bb/apprenticeVrSrc">
-<img src="https://img.shields.io/badge/Download-ApprenticeVrSrc-gold?style=for-the-badge">
+<img src="https://img.shields.io/badge/Download-ApprenticeVR VrSrc Edition-gold?style=for-the-badge">
   </a>
   </p>
 
