@@ -70,7 +70,17 @@ href="https://github.com/KaladinDMP/apprenticeVrSrc/releases">
 ---
 
 
+## Installed Location
+
+---
+
+```C:\Users\PCUSERNAME\AppData\Local\Programs\ApprenticeVR\```
+
+---
+
 ## LOCATING UNKNOWN SOURCES
+
+
 
 Unknown Sources is where you find your sideloaded games.
 Click below for instructions 
