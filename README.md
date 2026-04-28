@@ -40,7 +40,7 @@ href="https://github.com/mula-bb/apprenticeVrSrc">
 </p>
 
 ---
-3. Run and Install ```ApprenticeVR Setup```
+3. Run and Install ```ApprenticeVrSrc Setup```
 ---
 4. Once installed you need to update the ```serverinfo.json``` file
 ---
