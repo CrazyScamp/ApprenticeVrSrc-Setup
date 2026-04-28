@@ -1,5 +1,5 @@
-## What is ApprenticeVrSrc
-ApprenticeVrSrc is designed for managing and sideloading content onto Meta Quest devices
+## What is ApprenticeVR (VrSrc Edition)
+ApprenticeVR (VrSrc Edition) is designed for managing and sideloading content onto Meta Quest devices
 <br>
 <br>
 
