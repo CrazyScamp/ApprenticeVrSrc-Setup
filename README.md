@@ -34,8 +34,8 @@ href="https://github.com/mula-bb/apprenticeVrSrc">
 
 2. Download a working JSON (Server/Database)
 <p>
-  <a href="https://github.com/CrazyScamp/Rookie-3.1-Setup/releases/download/public.json/public.json">
-    <img src="https://img.shields.io/badge/Download-JSON-gold?style=for-the-badge">
+  <a href="https://github.com/user-attachments/files/27160582/ServerInfo.json">
+    <img src="https://img.shields.io/badge/Download-ServerInfo.json-gold?style=for-the-badge">
   </a>
 </p>
 
