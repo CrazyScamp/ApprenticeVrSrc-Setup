@@ -46,9 +46,12 @@ href="https://github.com/KaladinDMP/apprenticeVrSrc/releases">
 
 4.  ```You may see Windows Protected your PC``` come up
 
-5. click ```More Info```
+---
+
+6. click ```More Info```
 <br>
 <img width="529" height="495" alt="run" src="https://github.com/user-attachments/assets/33135e23-11e7-4acd-9ed6-7ff9baeabf9e" />
+
 ---
 
 6. Start ```ApprenticeVR VrSrc```
