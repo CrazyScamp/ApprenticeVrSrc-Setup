@@ -55,7 +55,8 @@ href="https://github.com/KaladinDMP/apprenticeVrSrc/releases">
 
 ---
 
-## Please note - ```The Server / Database is already included```
+## Please note
+```The Server / Database is already included```
 
 ---
 
