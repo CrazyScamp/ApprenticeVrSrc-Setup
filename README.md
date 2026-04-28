@@ -48,9 +48,9 @@ href="https://github.com/KaladinDMP/apprenticeVrSrc/releases">
 
 ---
 
-6. click ```More Info```
+5. click ```More Info```
 <br>
-<img width="529" height="495" alt="run" src="https://github.com/user-attachments/assets/33135e23-11e7-4acd-9ed6-7ff9baeabf9e" />
+<img width="429" height="395" alt="run" src="https://github.com/user-attachments/assets/33135e23-11e7-4acd-9ed6-7ff9baeabf9e" />
 
 ---
 
