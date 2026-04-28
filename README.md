@@ -1,5 +1,5 @@
-## What is ApprenticeVR
-ApprenticeVR: VRSrc Edition is designed for managing and sideloading content onto Meta Quest devices
+## What is ApprenticeVrSrc
+ApprenticeVrSrc is designed for managing and sideloading content onto Meta Quest devices
 <br>
 <br>
 
@@ -21,7 +21,7 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
 
 
 
-1. Download ApprenticeVR
+1. Download ApprenticeVrSrc
 <p>
   <a 
 href="https://github.com/mula-bb/apprenticeVrSrc">
@@ -44,7 +44,7 @@ href="https://github.com/mula-bb/apprenticeVrSrc">
 ---
 4. Once installed you need to update the ```serverinfo.json``` file
 ---
-5. Start ```ApprenticeVR```
+5. Start ```ApprenticeVrSrc```
 ---
 6. Click ```Settings```at the top
 ---
