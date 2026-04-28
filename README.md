@@ -44,7 +44,7 @@ href="https://github.com/KaladinDMP/apprenticeVrSrc/releases">
 3. Run and Install ```ApprenticeVR (VrSrc Edition) Setup```
 ---
 
-4.  ```You may see Windows Protected your PC``` come up
+4.  You May See ```Windows Protected your PC``` come up
 
 ---
 
@@ -52,7 +52,12 @@ href="https://github.com/KaladinDMP/apprenticeVrSrc/releases">
 <br>
 <img width="429" height="395" alt="run" src="https://github.com/user-attachments/assets/33135e23-11e7-4acd-9ed6-7ff9baeabf9e" />
 
+---
+
 6. Then Click ```Run Anyway```
+
+<img width="427" height="394" alt="run1" src="https://github.com/user-attachments/assets/b47c108e-302f-4b3a-8626-2478e032a020" />
+
 
 ---
 
