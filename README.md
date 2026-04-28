@@ -24,7 +24,7 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
 1. Download ApprenticeVR (VrSrc Edition)
 <p>
   <a 
-href="https://github.com/mula-bb/apprenticeVrSrc">
+href="(https://github.com/KaladinDMP/apprenticeVrSrc/releases)">
 <img src="https://img.shields.io/badge/Download-ApprenticeVR (VrSrc Edition)-gold?style=for-the-badge">
   </a>
   </p>
