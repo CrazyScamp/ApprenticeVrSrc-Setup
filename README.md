@@ -42,21 +42,18 @@ href="https://github.com/KaladinDMP/apprenticeVrSrc/releases">
 ---
 3. Run and Install ```ApprenticeVR (VrSrc Edition) Setup```
 ---
-4. Once installed you need to update the ```serverinfo.json``` file
+
+4.  ```You may see Windows Protected your PC``` come up
+
+5. click ```More Info```
+<br>
+<img width="529" height="495" alt="run" src="https://github.com/user-attachments/assets/33135e23-11e7-4acd-9ed6-7ff9baeabf9e" />
 ---
-5. Start ```ApprenticeVR VrSrc```
----
-6. Click ```Settings```at the top
----
-7. Click <br><br> <img width="250" height="39" alt="Open mirror mangement" src="https://github.com/user-attachments/assets/38c79eb8-9b8d-459b-aac5-5df88eff67d2" />
----
-8. Click <br><br> <img width="236" height="38" alt="Set Public Server JSON (set)" src="https://github.com/user-attachments/assets/a1697088-d4a5-4ab4-a7a8-c243fc80ab1a" />
----
-9. Open the ```JSON``` file Downloaded
----
-10. Copy and Paste the ```Public Server JSON``` info into the ```Paste JSON``` box
----
-11. Click ```Save```
+
+6. Start ```ApprenticeVR VrSrc```
+
+Please note - ```The Server / Database is already included```
+
 ---
 
 ## LOCATING UNKNOWN SOURCES
