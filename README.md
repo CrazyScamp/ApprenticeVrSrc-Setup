@@ -25,7 +25,7 @@ href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
 <p>
   <a 
 href="https://github.com/mula-bb/apprenticeVrSrc">
-<img src="https://img.shields.io/badge/Download ApprenticeVrSrc-gold?style=for-the-badge">
+<img src="https://img.shields.io/badge/Download-ApprenticeVrSrc-gold?style=for-the-badge">
   </a>
   </p>
 
